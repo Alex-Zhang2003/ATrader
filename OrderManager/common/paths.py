@@ -1,0 +1,1 @@
+LOG_DIR = '/Users/alexzhang/Downloads/twsapi_macunix/IBJts'
