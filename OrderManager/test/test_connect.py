@@ -3,7 +3,6 @@ import time
 
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper
-from ibapi.contract import Contract
 
 from common.variables import TWS_PAPER_PORT
 
